@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1553315186 source:d:\projects\encr_decr\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<conio.h>
+	<unistd.h>
+	<bits/stdc++.h>
+
