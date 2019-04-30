@@ -10,5 +10,5 @@ The First Module Actually Encrypt the Data that was entered by the User. It was 
 
 The Second Module, Data Decryption this module will activate when security pin has entered. Same case Using **Hash Function** Data is Decrypted.
 
-#### P.S: In Case any Problem occured in Code. Raise an Issue,i will definitely.
+#### P.S: In Case any Problem occured in Code. Raise an Issue,i will definitely Respond.
 
